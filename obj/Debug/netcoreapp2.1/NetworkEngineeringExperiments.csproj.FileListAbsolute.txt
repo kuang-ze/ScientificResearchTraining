@@ -1,0 +1,16 @@
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\bin\Debug\netcoreapp2.1\NetworkEngineeringExperiments.deps.json
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\bin\Debug\netcoreapp2.1\NetworkEngineeringExperiments.runtimeconfig.json
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\bin\Debug\netcoreapp2.1\NetworkEngineeringExperiments.runtimeconfig.dev.json
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\bin\Debug\netcoreapp2.1\NetworkEngineeringExperiments.dll
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\bin\Debug\netcoreapp2.1\NetworkEngineeringExperiments.pdb
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.csproj.CoreCompileInputs.cache
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.RazorAssemblyInfo.cache
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.RazorAssemblyInfo.cs
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.AssemblyInfoInputs.cache
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.AssemblyInfo.cs
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.RazorTargetAssemblyInfo.cache
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.dll
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.pdb
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.csproj.AssemblyReference.cache
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E15\RiderProjects\NetworkEngineeringExperiments\obj\Debug\netcoreapp2.1\NetworkEngineeringExperiments.genruntimeconfig.cache
